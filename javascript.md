@@ -1,5 +1,3 @@
-***
-
 # JavaScript Interview Questions
 
 A curated list of JavaScript interview questions organized from core concepts to practical machine coding challenges.
