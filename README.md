@@ -18,3 +18,8 @@ The questions are organized into five distinct levels:
 * **Beginners** looking to solidify their understanding of JS fundamentals.
 * **Frontend Developers** preparing for technical interviews.
 * **Interviewers** looking for a structured bank of questions to assess candidates.
+  
+**🌟 Support**
+If you find this list helpful, please give this repo a Star ⭐️! It helps others find this resource.
+
+
