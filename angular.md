@@ -1,5 +1,3 @@
-Here is a comprehensive, structured, and de-duplicated list of **Angular Interview Questions** organized from **Basic to Advanced**. This is optimized for a GitHub `README.md` file.
-
 ***
 
 # Angular Interview Questions
