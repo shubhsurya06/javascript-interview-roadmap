@@ -80,27 +80,26 @@ A curated list of Angular interview questions ranging from core architecture to 
 ## 🟤 Part 7: Modern Angular & Performance (Advanced)
 *Signals, Zoneless, State Management, and Optimization.*
 
-50. 
-51. What are **Angular Signals**? How do they differ from RxJS Observables?
-52. How does Angular handle change detection **without Zone.js (Zoneless)**?
-53. What is the difference between `Default` and `OnPush` change detection strategies?
-54. How does the `trackBy` function improve performance in `*ngFor` (or the new `@for`)?
-55. What are the pros and cons of using **NgRx** vs. **Signals/Services** for state management?
-56. How do you handle side effects in NgRx?
-57. What tools do you use to analyze and improve bundle size (e.g., source-map-explorer)?
-58. What is **Server-Side Rendering (SSR)** and how does Angular Universal/Hydration work?
-59. What are the new Control Flow syntaxes (`@if`, `@for`, `@switch`) introduced in Angular 17+?
+50. What are **Angular Signals**? How do they differ from RxJS Observables?
+51. How does Angular handle change detection **without Zone.js (Zoneless)**?
+52. What is the difference between `Default` and `OnPush` change detection strategies?
+53. How does the `trackBy` function improve performance in `*ngFor` (or the new `@for`)?
+54. What are the pros and cons of using **NgRx** vs. **Signals/Services** for state management?
+55. How do you handle side effects in NgRx?
+56. What tools do you use to analyze and improve bundle size (e.g., source-map-explorer)?
+57. What is **Server-Side Rendering (SSR)** and how does Angular Universal/Hydration work?
+58. What are the new Control Flow syntaxes (`@if`, `@for`, `@switch`) introduced in Angular 17+?
 
 ## ⚫ Part 8: Scenario-Based & System Design
 *Real-world problem solving and architectural decisions.*
 
-60. **Migration Scenario:** You have a project using PrimeNG, and the client wants to switch to Angular Material mid-project. How do you handle this? (Branching, Strategy, Sprints).
-61. **Upgrade Scenario:** What are the steps to upgrade an Angular application from an older version to the latest?
-62. **Security:** How do you implement Role-Based Access Control (RBAC) using Guards?
-63. **Security:** How do you handle JWT tokens (storage, refreshing, and attaching to requests)?
-64. **Architecture:** How would you structure a large-scale Angular application? (Nx Monorepos, Library pattern).
-65. **Internationalization:** How do you implement multi-language support (i18n)?
-66. **Testing:** How do you mock dependencies in Unit Tests?
-67. **Debugging:** Describe a time you had to debug a complex issue. How did you approach it?
+59. **Migration Scenario:** You have a project using PrimeNG, and the client wants to switch to Angular Material mid-project. How do you handle this? (Branching, Strategy, Sprints).
+60. **Upgrade Scenario:** What are the steps to upgrade an Angular application from an older version to the latest?
+61. **Security:** How do you implement Role-Based Access Control (RBAC) using Guards?
+62. **Security:** How do you handle JWT tokens (storage, refreshing, and attaching to requests)?
+63. **Architecture:** How would you structure a large-scale Angular application? (Nx Monorepos, Library pattern).
+64. **Internationalization:** How do you implement multi-language support (i18n)?
+65. **Testing:** How do you mock dependencies in Unit Tests?
+66. **Debugging:** Describe a time you had to debug a complex issue. How did you approach it?
 
 ***
